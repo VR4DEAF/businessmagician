@@ -1,7 +1,7 @@
 # 360 Magicians - Business Magician Agent
 
 > **Author**: Pinky Collie  
-> **Organization**: 360 Magicians  
+> **Organization**: Mbtq.dev
 > **Platform**: VR4Deaf.org  
 > **Website**: businessmagician.vr4deaf.org
 
