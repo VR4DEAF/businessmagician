@@ -1,5 +1,5 @@
 # Use a lightweight Node.js image
-FROM node:25-slim
+FROM node:26-slim
 
 # Create app directory
 WORKDIR /app
