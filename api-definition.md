@@ -1,4 +1,4 @@
-# 360 Business Magician API Architecture
+#Budiness Magician API Architecture
 
 ## Core Architecture Principles
 
